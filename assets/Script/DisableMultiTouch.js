@@ -1,0 +1,1 @@
+cc.macro.ENABLE_MULTI_TOUCH = false;

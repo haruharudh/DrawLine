@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c1af89d4-6c8b-4a33-a5a8-b585c327face",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 64,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "eraserToolIcon": {
+      "ver": "1.0.6",
+      "uuid": "3e2f8d7b-4781-423c-aa0a-aba2f6a0bef2",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c1af89d4-6c8b-4a33-a5a8-b585c327face",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 64,
+      "rawWidth": 64,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
